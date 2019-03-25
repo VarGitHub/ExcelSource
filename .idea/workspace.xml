@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2d4d0cc-0a06-49ed-a5a7-10c8b747961c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generic/src/main/java/base/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/generic/src/main/java/base/CommonAPI.java" afterDir="false" />
+
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -20,8 +19,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
+
             <state relative-caret-position="465">
               <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+
+            <state relative-caret-position="255">
+              <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+
             </state>
           </provider>
         </entry>
@@ -38,11 +42,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/generic/src/main/java/base/CommonAPI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+
             </state>
           </provider>
         </entry>
@@ -59,7 +63,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/generic/src/main/java/datasources/ExcelDataSource.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
+
               <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -116,13 +120,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/generic/pom.xml" />
         <option value="$PROJECT_DIR$/mystore/pom.xml" />
         <option value="$PROJECT_DIR$/generic/src/main/java/datasources/ExcelDataSource.java" />
         <option value="$PROJECT_DIR$/mystore/src/test/resources/mystoreapprunner.xml" />
         <option value="$PROJECT_DIR$/mystore/src/main/java/pages/HomePageMystore.java" />
         <option value="$PROJECT_DIR$/mystore/src/test/java/testpages/TestHomePage.java" />
+
+
         <option value="$PROJECT_DIR$/generic/src/main/java/base/CommonAPI.java" />
       </list>
     </option>
@@ -134,18 +139,20 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+
     <option name="x" value="1280" />
-    <option name="y" value="-511" />
+    <option name="y" value="-488" />
     <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="height" value="1057" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+
+
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -162,6 +169,14 @@
               <item name="ExcelSource" type="b2602c69:ProjectViewProjectNode" />
               <item name="ExcelSource" type="462c0819:PsiDirectoryNode" />
               <item name="generic" type="462c0819:PsiDirectoryNode" />
+
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+
+            </path>
+            <path>
+              <item name="ExcelSource" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExcelSource" type="462c0819:PsiDirectoryNode" />
+              <item name="generic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -170,13 +185,7 @@
               <item name="generic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ExcelSource" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ExcelSource" type="462c0819:PsiDirectoryNode" />
-              <item name="generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -192,7 +201,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+
+      <pane id="PackagesPane" />
+
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -265,10 +276,8 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1280" y="-511" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1375" />
+
+
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -299,8 +308,13 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
+
         <state relative-caret-position="465">
           <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+
+        <state relative-caret-position="255">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+
         </state>
       </provider>
     </entry>
@@ -320,7 +334,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/generic/src/main/java/datasources/ExcelDataSource.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
+
+
           <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -357,11 +372,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/generic/src/main/java/base/CommonAPI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+
         </state>
       </provider>
     </entry>
